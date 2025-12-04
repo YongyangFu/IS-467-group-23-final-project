@@ -1,0 +1,11 @@
+system_card_code,evaluation_area,n_items,section_score_sum,mean_score,fairness_index_0_100
+B111,"Equity, Data",5,0,0.0,50.0
+B112,"Bias Detection, Data",5,-2,-0.4,30.0
+B113,"Sampling Integrity, Data",5,-4,-0.8,9.999999999999998
+B114,"Fairness Metrics, Data",5,-5,-1.0,0.0
+B211,"Fairness, Data",7,-6,-0.8571428571428571,7.142857142857145
+B212,"Impact Assessment, Data",7,-4,-0.5714285714285714,21.42857142857143
+B311,"Bias Mitigation, Data",7,-6,-0.8571428571428571,7.142857142857145
+B312,Rebalancing Techniques (Data),5,-5,-1.0,0.0
+B411,"Third-Party Assessment, Data",5,-5,-1.0,0.0
+B412,"Transparency Reports, Data",5,0,0.0,50.0

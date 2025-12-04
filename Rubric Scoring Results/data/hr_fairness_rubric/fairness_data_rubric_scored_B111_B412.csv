@@ -1,0 +1,57 @@
+system_card_code,evaluation_area,item_id,criterion_name,score
+B111,"Equity, Data",B111_item1,Data Source Documentation,0
+B111,"Equity, Data",B111_item2,Purpose Disclosure,1
+B111,"Equity, Data",B111_item3,Metadata Availability,1
+B111,"Equity, Data",B111_item4,Sampling Visibility,-1
+B111,"Equity, Data",B111_item5,Error and Limitation Reporting,-1
+B112,"Bias Detection, Data",B112_item1,Representation Balance,0
+B112,"Bias Detection, Data",B112_item2,Feature Bias Screening,-1
+B112,"Bias Detection, Data",B112_item3,Outcome Disparity Checks,0
+B112,"Bias Detection, Data",B112_item4,Missing Data Pattern Analysis,0
+B112,"Bias Detection, Data",B112_item5,Bias Flag Reporting,-1
+B113,"Sampling Integrity, Data",B113_item1,Sampling Frame Clarity,-1
+B113,"Sampling Integrity, Data",B113_item2,Inclusion and Exclusion Rules,-1
+B113,"Sampling Integrity, Data",B113_item3,Coverage of Key Subgroups,0
+B113,"Sampling Integrity, Data",B113_item4,Sampling Method Transparency,-1
+B113,"Sampling Integrity, Data",B113_item5,Oversampling/Correction Strategy,-1
+B114,"Fairness Metrics, Data",B114_item1,Defined Fairness Metrics,-1
+B114,"Fairness Metrics, Data",B114_item2,Metric Justification,-1
+B114,"Fairness Metrics, Data",B114_item3,Group Comparison Reporting,-1
+B114,"Fairness Metrics, Data",B114_item4,Threshold and Cutoff Transparency,-1
+B114,"Fairness Metrics, Data",B114_item5,Metric Limitations Disclosure,-1
+B211,"Fairness, Data",B211_item1,Detection of Demographic Imbalance,-1
+B211,"Fairness, Data",B211_item2,Identification of Historical or Structural Bias,-1
+B211,"Fairness, Data",B211_item3,Sensitive Attribute Handling and Documentation,-1
+B211,"Fairness, Data",B211_item4,Bias Detection Techniques and Evidence,-1
+B211,"Fairness, Data",B211_item5,Correctness and Integrity of Labels,0
+B211,"Fairness, Data",B211_item6,Sampling and Collection Process Transparency,-1
+B211,"Fairness, Data",B211_item7,Mitigation Readiness and Recommendations,-1
+B212,"Impact Assessment, Data",B212_item1,Identification of Affected Demographic Groups,-1
+B212,"Impact Assessment, Data",B212_item2,Analysis of Differential Impact,-1
+B212,"Impact Assessment, Data",B212_item3,Evaluation of Data Processing Risks,0
+B212,"Impact Assessment, Data",B212_item4,Assessment of Missingness and Exclusion Impact,0
+B212,"Impact Assessment, Data",B212_item5,Scenario-Based Impact Projections,-1
+B212,"Impact Assessment, Data",B212_item6,Documentation of Assumptions and Limitations,0
+B212,"Impact Assessment, Data",B212_item7,Mitigation Strategies for Disparate Impact,-1
+B311,"Bias Mitigation, Data",B311_item1,Selection and Justification of Mitigation Technique,-1
+B311,"Bias Mitigation, Data",B311_item2,Implementation Transparency,-1
+B311,"Bias Mitigation, Data",B311_item3,Effectiveness Evaluation Across Groups,-1
+B311,"Bias Mitigation, Data",B311_item4,Impact on Data Integrity and Utility,0
+B311,"Bias Mitigation, Data",B311_item5,Handling of Rare or Underrepresented Groups,-1
+B311,"Bias Mitigation, Data",B311_item6,Assessment of New Risks Introduced by Mitigation,-1
+B311,"Bias Mitigation, Data",B311_item7,Mitigation Outcome Reporting and Recommendations,-1
+B312,Rebalancing Techniques (Data),B312_item1,Representation Adjustment,-1
+B312,Rebalancing Techniques (Data),B312_item2,Transparency of Rebalancing Process,-1
+B312,Rebalancing Techniques (Data),B312_item3,Evaluation of Effectiveness,-1
+B312,Rebalancing Techniques (Data),B312_item4,Impact on Data Integrity,-1
+B312,Rebalancing Techniques (Data),B312_item5,Consideration of Rare Groups,-1
+B411,"Third-Party Assessment, Data",B411_item1,Independent Audit,-1
+B411,"Third-Party Assessment, Data",B411_item2,Documentation of Findings,-1
+B411,"Third-Party Assessment, Data",B411_item3,Recommendations for Improvement,-1
+B411,"Third-Party Assessment, Data",B411_item4,Verification of Bias Mitigation,-1
+B411,"Third-Party Assessment, Data",B411_item5,Additional Third-Party Assessment Criterion (see rubric),-1
+B412,"Transparency Reports, Data",B412_item1,Reporting of Preprocessing Steps,0
+B412,"Transparency Reports, Data",B412_item2,Disclosure of Fairness Practices,0
+B412,"Transparency Reports, Data",B412_item3,Accessibility and Clarity,0
+B412,"Transparency Reports, Data",B412_item4,Documentation of Limitations,0
+B412,"Transparency Reports, Data",B412_item5,Public or Stakeholder Availability,0
